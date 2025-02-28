@@ -7,6 +7,8 @@
 ![image](https://github.com/user-attachments/assets/d77d8fae-32f1-4e4b-9a87-e3c5df3407e0)
 Introduction to the course | ITIL Foundation | AXELOS | 1WorldTraining.com
 https://www.youtube.com/watch?v=_1LDeCXywoE&t=23s
+![image](https://github.com/user-attachments/assets/2c4b057c-cfb3-4b8e-a3bb-656f4acc0a9b)
+
 
 https://www.simplilearn.com/free-itil-v-four-course-skillup
 https://www.youtube.com/watch?v=0S8KJpP0yMg
